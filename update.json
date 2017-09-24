@@ -1,0 +1,10 @@
+{
+    "addons": {
+        "{5204f051-144e-4004-83e9-644cab0f803e}": {
+            "updates": [{
+                "version": "3.2.0",
+                "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.2.0-an+fx.xpi"
+            }]
+        }
+    }
+}
