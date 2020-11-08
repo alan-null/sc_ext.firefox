@@ -8,6 +8,9 @@
                 {
                     "version": "3.3.0.0",
                     "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.3.0.0-an+fx.xpi"
+                }, {
+                    "version": "3.4.0.1",
+                    "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.4.0.1-fx.xpi"
                 }
             ]
         }
