@@ -1,16 +1,22 @@
 {
     "addons": {
         "{5204f051-144e-4004-83e9-644cab0f803e}": {
-            "updates": [{
+            "updates": [
+                {
                     "version": "3.2.0",
                     "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.2.0-an+fx.xpi"
                 },
                 {
                     "version": "3.3.0.0",
                     "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.3.0.0-an+fx.xpi"
-                }, {
+                },
+                {
                     "version": "3.4.0.1",
                     "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-3.4.0.1-fx.xpi"
+                },
+                {
+                    "version": "4.0.0.0",
+                    "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-4.0.0.0.xpi"
                 }
             ]
         }
