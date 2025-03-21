@@ -11,7 +11,7 @@ More details [here](https://alan-null.github.io/2017/09/sitecore-extensions-ff) 
 ## Installation
 
 ### Download a self-hosted package
-You will find the most the most recent version here [Sitecore Extension Addon](https://github.com/alan-null/sc_ext.firefox/raw/master/xpi/sitecore_extensions-3.2.0-an%2Bfx.xpi).
+You will find the most the most recent version here [Sitecore Extension Addon](https://github.com/alan-null/sc_ext.firefox/raw/master/xpi/sitecore_extensions-4.0.0.0.xpi).
 
 ### Install a self-hosted package
 
