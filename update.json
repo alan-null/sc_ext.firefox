@@ -17,6 +17,10 @@
                 {
                     "version": "4.0.0.0",
                     "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-4.0.0.0.xpi"
+                },
+                {
+                    "version": "4.1.0.0",
+                    "update_link": "https://raw.githubusercontent.com/alan-null/sc_ext.firefox/master/xpi/sitecore_extensions-4.1.0.0.xpi"
                 }
             ]
         }
